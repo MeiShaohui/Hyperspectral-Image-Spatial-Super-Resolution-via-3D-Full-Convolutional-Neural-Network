@@ -8,13 +8,14 @@ By [Shaohui Mei](http://teacher.nwpu.edu.cn/en/meishaohui.html), Xin Yuan, [Jing
 The 3D-FRCNN is an unified framework for hyperspectral image super-resolutiom(SR) with a single network. You can use the code to train/evaluate a network for hsi super-resolution(SR). For more details, please refer to our [paper](http://www.mdpi.com/2072-4292/9/11/1139/htm).
 
 ### Proposed Framework
-![](figure/Proposed Framework.png) 
+![](./figure/Proposed_Framework.png) 
 
 ### Some SR results 
-![](figure/Some SR results.png) 
+![](./figure/Some_SR_results.png) 
 
 ---
 ### Citing our work
+```
 @Article{rs9111139,
 AUTHOR = {Mei, Shaohui and Yuan, Xin and Ji, Jingyu and Zhang, Yifan and Wan, Shuai and Du, Qian},
 TITLE = {Hyperspectral Image Spatial Super-Resolution via 3D Full Convolutional Neural Network},
@@ -27,7 +28,7 @@ URL = {http://www.mdpi.com/2072-4292/9/11/1139},
 ISSN = {2072-4292},
 DOI = {10.3390/rs9111139}
 }
-
+```
 ---
 ### Installation
 ##### Install Keras
