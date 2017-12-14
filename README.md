@@ -67,5 +67,6 @@ We release one pretrained models: model_pa.h5 in "model" folder for Pavia datase
 Do testing 
 ```Shell
 python predict.py
+```
 will show both reconstructed images and PSNR/SSIM/SAM.
 
